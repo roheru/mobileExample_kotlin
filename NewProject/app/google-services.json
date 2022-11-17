@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272355166417",
+    "project_id": "movilesnoche20223",
+    "storage_bucket": "movilesnoche20223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272355166417:android:4f55f367b0c958bd169df0",
+        "android_client_info": {
+          "package_name": "com.example.newproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272355166417-u8uk7schv2etg3bsavv7uvb3ioaei86m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD76xPzAFtQSDCjbQa3J9aOMtB2lnLpB1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272355166417-u8uk7schv2etg3bsavv7uvb3ioaei86m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
